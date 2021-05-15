@@ -1,0 +1,52 @@
+{
+    "Enabled": true,
+    "Setup": {
+        "Log": ".\\OptionInjection.log",
+        "SavedGamesFolder": "C:\\Users\\Mr_Superjaffa\\Saved Games\\DCS",
+        "Mission": null
+    },
+    "General": {
+        "DEBUG": false
+    },
+    "Options": {
+        "_COMMENT1_": "Options below are true/false and are case sensitive. null = ignore",
+        "Mission_External_Views": null,
+        "Player_External_Views": null,
+        "Spectator_External_Views": null,
+        "F5_Nearest_Aircraft": null,
+        "F11_Free_Camera": null,
+        "F10_Map_Enable": null,
+        "Padlock": null,
+        
+        "Game_Flight_Mode": null,
+        "Game_Avionic_Mode": null,
+        "Immortal": null,
+        "Unlimited_Fuel": null,
+        "Unlimited_Weapons": null,
+        "Easy_Communication": null,
+        "Radio_Assists": null,
+        "Unrestricted_SATNAV": null,
+        "Wake_Turbulence": null,
+        "Random_System_Failures": null,
+        "Mini_HUD": null,
+        "Cockpit_Vis_Recon": null,
+        "F10_Map_User_Marks": null,
+        "Cockpit_Status_Bar": null,
+        "Battle_Damage_Assess": null,
+
+        "_COMMENT2_": "1 = Map Only, 2 = Own AC, 3 = Fog of War, 4 = Allies, 5 = All",
+        "F10_View_Options": null,
+
+        "_COMMENT3_": "1 = Full, 2 = Abbreviated, 3 = Dot Only, 4 = Dot Neutral, 5 = None,",
+        "Labels": null,
+
+        "_COMMENT4_": "1 = None, 2 = Low, 3 = Medium, 4 = High",
+        "Civ_Traffic": null,
+
+        "_COMMENT5_": "1 = None, 2 = Game, 3 = Realistic",
+        "G_Effects": null,
+
+        "_COMMENT6_": "Percentage 0-1000",
+        "Birds": null
+    }
+}

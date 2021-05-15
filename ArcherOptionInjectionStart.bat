@@ -1,1 +1,1 @@
-powershell.exe -ExecutionPolicy Bypass -File "AWCWeatherInjection.ps1"
+powershell.exe -ExecutionPolicy Bypass -File "ArcherOptionInjection.ps1"

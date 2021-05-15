@@ -1,137 +1,267 @@
-2021/05/15 08:37:14 WARN Log not found. Creating log at @Log
-2021/05/15 08:37:14 INFO ---------- Initializing AWCWeatherInjection v0.6.10 ----------
-2021/05/15 08:37:14 INFO Script Enabled. Continuing...
-2021/05/15 08:37:14 INFO Fetching TDS Weather for URSS...
-2021/05/15 08:37:14 INFO TDS METAR: URSS 151430Z 14003MPS 9999 FEW050 21/10 Q1011 R06/010070 R02/////// NOSIG RMK R02/14003MPS QFE757
-2021/05/15 08:37:14 INFO Unzipping miz...
-2021/05/15 08:37:15 FATAL Mission extraction failed!
-2021/05/15 08:37:15 INFO Winds Ground: 140 @ 6 Kts
-2021/05/15 08:37:15 INFO Winds 2000m: 206 @ 7 Kts
-2021/05/15 08:37:15 INFO Winds 8000m: 219 @ 15 Kts
-2021/05/15 08:37:15 INFO Turbulence: 8
-2021/05/15 08:37:15 INFO Temperature: 21 C
-2021/05/15 08:37:15 INFO Pressure: 29.85 inHG
-2021/05/15 08:37:15 INFO Cloud Cover: 3
-2021/05/15 08:37:15 INFO Cloud Preset: Preset1
-2021/05/15 08:37:15 INFO Time disabled.
-2021/05/15 08:37:15 INFO Exporting weather...
-2021/05/15 08:37:15 INFO Creating cloud preset line.
-2021/05/15 08:37:15 ERROR Ground wind speed export failed!
-2021/05/15 08:37:15 ERROR Ground wind direction export failed!
-2021/05/15 08:37:15 ERROR Wind speed 2000m export failed!
-2021/05/15 08:37:15 ERROR Wind direction 2000m export failed!
-2021/05/15 08:37:15 ERROR Wind speed 8000m export failed!
-2021/05/15 08:37:15 ERROR Wind direction 8000m export failed!
-2021/05/15 08:37:15 ERROR Turbulence export failed!
-2021/05/15 08:37:15 ERROR Temperature export failed!
-2021/05/15 08:37:15 ERROR Pressure export failed!
-2021/05/15 08:37:15 ERROR Cloud height export failed!
-2021/05/15 08:37:15 ERROR Cloud coverage export failed!
-2021/05/15 08:37:15 ERROR Cloud base export failed!
-2021/05/15 08:37:15 ERROR Fog enable failed!
-2021/05/15 08:37:15 ERROR Fog disable failed!
-2021/05/15 08:37:15 ERROR Fog height export failed!
-2021/05/15 08:37:15 ERROR Fog visibility export failed!
-2021/05/15 08:37:15 ERROR Dust enable failed!
-2021/05/15 08:37:15 ERROR Dust disable failed!
-2021/05/15 08:37:15 ERROR Dust visibility export failed!
-2021/05/15 08:37:15 ERROR Weather Preset export failed!
-2021/05/15 08:37:15 INFO Finished Export.
-2021/05/15 08:37:15 FATAL Zipping failed!
-2021/05/15 08:37:15 INFO Script complete. Exiting...
-2021/05/15 08:37:35 INFO ---------- Initializing AWCWeatherInjection v0.6.10 ----------
-2021/05/15 08:37:35 INFO Script Enabled. Continuing...
-2021/05/15 08:37:35 INFO Fetching TDS Weather for URSS...
-2021/05/15 08:37:35 INFO TDS METAR: URSS 151430Z 14003MPS 9999 FEW050 21/10 Q1011 R06/010070 R02/////// NOSIG RMK R02/14003MPS QFE757
-2021/05/15 08:37:35 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
-2021/05/15 08:37:35 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
-2021/05/15 08:37:35 INFO Fetched Mission: C:\\Users\\Mr_Superjaffa\\Saved Games\\DCS\\Missions\\L39_Test.miz
-2021/05/15 08:37:35 INFO Unzipping miz...
-2021/05/15 08:37:36 INFO Winds Ground: 140 @ 6 Kts
-2021/05/15 08:37:36 INFO Winds 2000m: 179 @ 13 Kts
-2021/05/15 08:37:36 INFO Winds 8000m: 218 @ 17 Kts
-2021/05/15 08:37:36 INFO Turbulence: 8
-2021/05/15 08:37:36 INFO Temperature: 21 C
-2021/05/15 08:37:36 INFO Pressure: 29.85 inHG
-2021/05/15 08:37:36 INFO Cloud Cover: 4
-2021/05/15 08:37:36 INFO Cloud Preset: Preset2
-2021/05/15 08:37:36 INFO Time disabled.
-2021/05/15 08:37:36 INFO Exporting weather...
-2021/05/15 08:37:36 INFO Ground wind speed exported.
-2021/05/15 08:37:36 INFO Ground wind direction exported.
-2021/05/15 08:37:36 INFO Wind speed 2000m exported.
-2021/05/15 08:37:36 INFO Wind direction 2000m exported.
-2021/05/15 08:37:36 INFO Wind speed 8000m exported.
-2021/05/15 08:37:36 INFO Wind direction 8000m exported.
-2021/05/15 08:37:36 INFO Turbulence exported.
-2021/05/15 08:37:36 INFO Temperature exported.
-2021/05/15 08:37:36 INFO Pressure exported.
-2021/05/15 08:37:36 INFO Fog disabled.
-2021/05/15 08:37:36 INFO Dust Disabled.
-2021/05/15 08:37:36 INFO Exported Weather Preset.
-2021/05/15 08:37:36 INFO Finished Export.
-2021/05/15 08:37:36 INFO Script complete. Exiting...
-2021/05/15 08:48:21 INFO ---------- Initializing AWCWeatherInjection v0.6.10 ----------
-2021/05/15 08:48:22 INFO Script Enabled. Continuing...
-2021/05/15 08:48:22 INFO Fetching TDS Weather for URSS...
-2021/05/15 08:48:22 INFO TDS METAR: URSS 151430Z 14003MPS 9999 FEW050 21/10 Q1011 R06/010070 R02/////// NOSIG RMK R02/14003MPS QFE757
-2021/05/15 08:48:22 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
-2021/05/15 08:48:22 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
-2021/05/15 08:48:22 INFO Fetched Mission: C:\\Users\\Mr_Superjaffa\\Saved Games\\DCS\\Missions\\L39_Test.miz
-2021/05/15 08:48:22 INFO Unzipping miz...
-2021/05/15 08:48:22 INFO Winds Ground: 140 @ 6 Kts
-2021/05/15 08:48:22 INFO Winds 2000m: 205 @ 10 Kts
-2021/05/15 08:48:22 INFO Winds 8000m: 285 @ 23 Kts
-2021/05/15 08:48:22 INFO Turbulence: 8
-2021/05/15 08:48:22 INFO Temperature: 21 C
-2021/05/15 08:48:22 INFO Pressure: 29.85 inHG
-2021/05/15 08:48:22 INFO Cloud Cover: 3
-2021/05/15 08:48:22 INFO Cloud Preset: Preset2
-2021/05/15 08:48:22 INFO Time disabled.
-2021/05/15 08:48:22 INFO Exporting weather...
-2021/05/15 08:48:22 INFO Ground wind speed exported.
-2021/05/15 08:48:22 INFO Ground wind direction exported.
-2021/05/15 08:48:22 INFO Wind speed 2000m exported.
-2021/05/15 08:48:22 INFO Wind direction 2000m exported.
-2021/05/15 08:48:22 INFO Wind speed 8000m exported.
-2021/05/15 08:48:22 INFO Wind direction 8000m exported.
-2021/05/15 08:48:22 INFO Turbulence exported.
-2021/05/15 08:48:22 INFO Temperature exported.
-2021/05/15 08:48:22 INFO Pressure exported.
-2021/05/15 08:48:22 INFO Fog disabled.
-2021/05/15 08:48:22 INFO Dust Disabled.
-2021/05/15 08:48:22 INFO Exported Weather Preset.
-2021/05/15 08:48:22 INFO Finished Export.
-2021/05/15 08:48:22 INFO Script complete. Exiting...
-2021/05/15 08:57:11 INFO ---------- Initializing AWCWeatherInjection v0.6.10 ----------
-2021/05/15 08:57:11 INFO Script Enabled. Continuing...
-2021/05/15 08:57:11 INFO Fetching TDS Weather for URSS...
-2021/05/15 08:57:11 INFO TDS METAR: URSS 151430Z 14003MPS 9999 FEW050 21/10 Q1011 R06/010070 R02/////// NOSIG RMK R02/14003MPS QFE757
-2021/05/15 08:57:11 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
-2021/05/15 08:57:11 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
-2021/05/15 08:57:11 INFO Fetched Mission: C:\\Users\\Mr_Superjaffa\\Saved Games\\DCS\\Missions\\L39_Test.miz
-2021/05/15 08:57:11 INFO Unzipping miz...
-2021/05/15 08:57:11 INFO Winds Ground: 140 @ 6 Kts
-2021/05/15 08:57:11 INFO Winds 2000m: 183 @ 11 Kts
-2021/05/15 08:57:11 INFO Winds 8000m: 236 @ 21 Kts
-2021/05/15 08:57:11 INFO Turbulence: 8
-2021/05/15 08:57:11 INFO Temperature: 21 C
-2021/05/15 08:57:11 INFO Pressure: 29.85 inHG
-2021/05/15 08:57:11 INFO Cloud Cover: 3
-2021/05/15 08:57:11 INFO Cloud Preset: Preset2
-2021/05/15 08:57:11 INFO Time disabled.
-2021/05/15 08:57:11 INFO Exporting weather...
-2021/05/15 08:57:11 INFO Ground wind speed exported.
-2021/05/15 08:57:11 INFO Ground wind direction exported.
-2021/05/15 08:57:11 INFO Wind speed 2000m exported.
-2021/05/15 08:57:11 INFO Wind direction 2000m exported.
-2021/05/15 08:57:11 INFO Wind speed 8000m exported.
-2021/05/15 08:57:11 INFO Wind direction 8000m exported.
-2021/05/15 08:57:11 INFO Turbulence exported.
-2021/05/15 08:57:11 INFO Temperature exported.
-2021/05/15 08:57:11 INFO Pressure exported.
-2021/05/15 08:57:11 INFO Fog disabled.
-2021/05/15 08:57:11 INFO Dust Disabled.
-2021/05/15 08:57:11 INFO Exported Weather Preset.
-2021/05/15 08:57:11 INFO Finished Export.
-2021/05/15 08:57:12 INFO Script complete. Exiting...
+2021/05/15 14:13:35 INFO ---------- Initializing Archer Option Injection v0.0.0 ----------
+2021/05/15 14:13:35 INFO Script Enabled. Continuing...
+2021/05/15 14:13:35 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
+2021/05/15 14:13:35 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
+2021/05/15 14:13:35 INFO Fetched Mission: C:\\Users\\Mr_Superjaffa\\Saved Games\\DCS\\Missions\\Empty_Mission_CCS.miz
+2021/05/15 14:13:35 INFO Unzipping miz...
+2021/05/15 14:13:35 INFO Making sense out the settings...
+2021/05/15 14:13:35 INFO Exporting options...
+2021/05/15 14:13:35 INFO Creating and Exporting Mission External Views: true
+2021/05/15 14:13:35 INFO Exporting Player External Views: true
+2021/05/15 14:13:35 INFO Exporting Spectator External Views: true-Export
+2021/05/15 14:13:35 INFO Exporting F5 View: true
+2021/05/15 14:13:35 INFO Exporting F11 View: true
+2021/05/15 14:13:35 INFO Exporting F10 View: true
+2021/05/15 14:13:35 INFO Creating and Exporting Padlock: true
+2021/05/15 14:13:35 INFO Creating and Exporting Easy Flight Mode: true
+2021/05/15 14:13:35 INFO Creating and Exporting Easy Avionics Mode: true
+2021/05/15 14:13:35 INFO Creating and Exporting Immortality: true
+2021/05/15 14:13:35 INFO Creating and Exporting Unlimited Fuel: true
+2021/05/15 14:13:35 INFO Creating and Exporting Unlimited Weapons: true
+2021/05/15 14:13:35 INFO Creating and Exporting Easy Communication: true
+2021/05/15 14:13:35 INFO Creating and Exporting Radio Assists: true
+2021/05/15 14:13:35 INFO Creating and Exporting Unrestricted SATNAV: true
+2021/05/15 14:13:35 INFO Creating and Exporting Wake Turbulence: true
+2021/05/15 14:13:35 INFO Creating and Exporting Random System Failures: true
+2021/05/15 14:13:35 INFO Creating and Exporting Mini HUD: true
+2021/05/15 14:13:35 INFO Creating and Exporting Cockpit Visual Recon: true
+2021/05/15 14:13:35 INFO Creating and Exporting F10 User Marks: true
+2021/05/15 14:13:35 INFO Creating and Exporting Cockpit Status Bar: true
+2021/05/15 14:13:35 INFO Creating and Exporting Battle Damage Assessment: true
+2021/05/15 14:13:35 INFO Creating and Exporting Birds: 999
+2021/05/15 14:13:35 INFO Creating and Exporting F10 View Options: optview_myaircraft
+2021/05/15 14:13:35 INFO Creating and Exporting Labels: 2
+2021/05/15 14:13:35 INFO Creating and Exporting Civ Traffic: high
+2021/05/15 14:13:35 INFO Creating and Exporting G Effects: realistic
+2021/05/15 14:13:35 INFO Finished Export.
+2021/05/15 14:13:35 INFO Script complete. Exiting...
+2021/05/15 14:14:42 INFO ---------- Initializing Archer Option Injection v0.0.0 ----------
+2021/05/15 14:14:42 INFO Script Enabled. Continuing...
+2021/05/15 14:14:42 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
+2021/05/15 14:14:42 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
+2021/05/15 14:14:42 INFO Fetched Mission: C:\\Users\\Mr_Superjaffa\\Saved Games\\DCS\\Missions\\Empty_Mission_CCS.miz
+2021/05/15 14:14:42 INFO Unzipping miz...
+2021/05/15 14:14:42 INFO Making sense out the settings...
+2021/05/15 14:14:42 INFO Exporting options...
+2021/05/15 14:14:42 INFO Creating and Exporting Mission External Views: true
+2021/05/15 14:14:42 INFO Exporting Player External Views: true
+2021/05/15 14:14:42 INFO Exporting Spectator External Views: true-Export
+2021/05/15 14:14:42 INFO Exporting F5 View: true
+2021/05/15 14:14:42 INFO Exporting F11 View: true
+2021/05/15 14:14:42 INFO Exporting F10 View: true
+2021/05/15 14:14:42 INFO Creating and Exporting Padlock: true
+2021/05/15 14:14:42 INFO Creating and Exporting Easy Flight Mode: true
+2021/05/15 14:14:42 INFO Creating and Exporting Easy Avionics Mode: true
+2021/05/15 14:14:42 INFO Creating and Exporting Immortality: true
+2021/05/15 14:14:42 INFO Creating and Exporting Unlimited Fuel: true
+2021/05/15 14:14:42 INFO Creating and Exporting Unlimited Weapons: true
+2021/05/15 14:14:42 INFO Creating and Exporting Easy Communication: true
+2021/05/15 14:14:42 INFO Creating and Exporting Radio Assists: true
+2021/05/15 14:14:42 INFO Creating and Exporting Unrestricted SATNAV: true
+2021/05/15 14:14:42 INFO Creating and Exporting Wake Turbulence: true
+2021/05/15 14:14:42 INFO Creating and Exporting Random System Failures: true
+2021/05/15 14:14:42 INFO Creating and Exporting Mini HUD: true
+2021/05/15 14:14:42 INFO Creating and Exporting Cockpit Visual Recon: true
+2021/05/15 14:14:42 INFO Creating and Exporting F10 User Marks: true
+2021/05/15 14:14:42 INFO Creating and Exporting Cockpit Status Bar: true
+2021/05/15 14:14:42 INFO Creating and Exporting Battle Damage Assessment: true
+2021/05/15 14:14:42 INFO Creating and Exporting Birds: 999
+2021/05/15 14:14:42 INFO Creating and Exporting F10 View Options: optview_myaircraft
+2021/05/15 14:14:42 INFO Creating and Exporting Labels: 2
+2021/05/15 14:14:42 INFO Creating and Exporting Civ Traffic: high
+2021/05/15 14:14:42 INFO Creating and Exporting G Effects: realistic
+2021/05/15 14:14:42 INFO Finished Export.
+2021/05/15 14:14:42 INFO Script complete. Exiting...
+2021/05/15 14:21:26 INFO ---------- Initializing Archer Option Injection v0.0.0 ----------
+2021/05/15 14:21:26 INFO Script Enabled. Continuing...
+2021/05/15 14:21:26 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
+2021/05/15 14:21:26 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
+2021/05/15 14:21:26 INFO Fetched Mission: C:\\Users\\Mr_Superjaffa\\Saved Games\\DCS\\Missions\\Empty_Mission_CCS.miz
+2021/05/15 14:21:26 INFO Unzipping miz...
+2021/05/15 14:21:26 INFO Making sense out the settings...
+2021/05/15 14:21:26 INFO Exporting options...
+2021/05/15 14:21:26 INFO Creating and Exporting Mission External Views: true
+2021/05/15 14:21:26 INFO Exporting Player External Views: true
+2021/05/15 14:21:26 INFO Exporting Spectator External Views: true-Export
+2021/05/15 14:21:26 INFO Exporting F5 View: true
+2021/05/15 14:21:26 INFO Exporting F11 View: true
+2021/05/15 14:21:26 INFO Exporting F10 View: true
+2021/05/15 14:21:26 INFO Creating and Exporting Padlock: true
+2021/05/15 14:21:26 INFO Creating and Exporting Easy Flight Mode: true
+2021/05/15 14:21:26 INFO Creating and Exporting Easy Avionics Mode: true
+2021/05/15 14:21:26 INFO Creating and Exporting Immortality: true
+2021/05/15 14:21:26 INFO Creating and Exporting Unlimited Fuel: true
+2021/05/15 14:21:26 INFO Creating and Exporting Unlimited Weapons: true
+2021/05/15 14:21:26 INFO Creating and Exporting Easy Communication: true
+2021/05/15 14:21:26 INFO Creating and Exporting Radio Assists: true
+2021/05/15 14:21:26 INFO Creating and Exporting Unrestricted SATNAV: true
+2021/05/15 14:21:26 INFO Creating and Exporting Wake Turbulence: true
+2021/05/15 14:21:26 INFO Creating and Exporting Random System Failures: true
+2021/05/15 14:21:26 INFO Creating and Exporting Mini HUD: true
+2021/05/15 14:21:26 INFO Creating and Exporting Cockpit Visual Recon: true
+2021/05/15 14:21:26 INFO Creating and Exporting F10 User Marks: true
+2021/05/15 14:21:26 INFO Creating and Exporting Cockpit Status Bar: true
+2021/05/15 14:21:26 INFO Creating and Exporting Battle Damage Assessment: true
+2021/05/15 14:21:26 INFO Creating and Exporting Birds: 999
+2021/05/15 14:21:26 INFO Creating and Exporting F10 View Options: optview_myaircraft
+2021/05/15 14:21:26 INFO Creating and Exporting Labels: 2
+2021/05/15 14:21:26 INFO Creating and Exporting Civ Traffic: high
+2021/05/15 14:21:26 INFO Creating and Exporting G Effects: realistic
+2021/05/15 14:21:26 INFO Finished Export.
+2021/05/15 14:21:26 INFO Script complete. Exiting...
+2021/05/15 14:26:09 INFO ---------- Initializing Archer Option Injection v0.0.0 ----------
+2021/05/15 14:26:09 INFO Script Enabled. Continuing...
+2021/05/15 14:26:09 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
+2021/05/15 14:26:09 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
+2021/05/15 14:26:09 INFO Fetched Mission: C:\\GitHub\\DCS-TTI-Master\\LATEST\\Empty_Mission_CCS.miz
+2021/05/15 14:26:09 INFO Unzipping miz...
+2021/05/15 14:26:09 INFO Making sense out the settings...
+2021/05/15 14:26:09 INFO Exporting options...
+2021/05/15 14:26:09 INFO Creating and Exporting Mission External Views: true
+2021/05/15 14:26:09 INFO Exporting Player External Views: true
+2021/05/15 14:26:09 INFO Exporting Spectator External Views: true-Export
+2021/05/15 14:26:10 INFO Exporting F5 View: true
+2021/05/15 14:26:10 INFO Exporting F11 View: true
+2021/05/15 14:26:10 INFO Exporting F10 View: true
+2021/05/15 14:26:10 INFO Creating and Exporting Padlock: true
+2021/05/15 14:26:10 INFO Creating and Exporting Easy Flight Mode: true
+2021/05/15 14:26:10 INFO Creating and Exporting Easy Avionics Mode: true
+2021/05/15 14:26:10 INFO Creating and Exporting Immortality: true
+2021/05/15 14:26:10 INFO Creating and Exporting Unlimited Fuel: true
+2021/05/15 14:26:10 INFO Creating and Exporting Unlimited Weapons: true
+2021/05/15 14:26:10 INFO Creating and Exporting Easy Communication: true
+2021/05/15 14:26:10 INFO Creating and Exporting Radio Assists: true
+2021/05/15 14:26:10 INFO Creating and Exporting Unrestricted SATNAV: true
+2021/05/15 14:26:10 INFO Creating and Exporting Wake Turbulence: true
+2021/05/15 14:26:10 INFO Creating and Exporting Random System Failures: true
+2021/05/15 14:26:10 INFO Creating and Exporting Mini HUD: true
+2021/05/15 14:26:10 INFO Creating and Exporting Cockpit Visual Recon: true
+2021/05/15 14:26:10 INFO Creating and Exporting F10 User Marks: true
+2021/05/15 14:26:10 INFO Creating and Exporting Cockpit Status Bar: true
+2021/05/15 14:26:10 INFO Creating and Exporting Battle Damage Assessment: true
+2021/05/15 14:26:10 INFO Creating and Exporting Birds: 999
+2021/05/15 14:26:10 INFO Creating and Exporting F10 View Options: optview_myaircraft
+2021/05/15 14:26:10 INFO Creating and Exporting Labels: 2
+2021/05/15 14:26:10 INFO Creating and Exporting Civ Traffic: high
+2021/05/15 14:26:10 INFO Creating and Exporting G Effects: realistic
+2021/05/15 14:26:10 INFO Finished Export.
+2021/05/15 14:26:10 INFO Script complete. Exiting...
+2021/05/15 14:28:45 INFO ---------- Initializing Archer Option Injection v0.0.0 ----------
+2021/05/15 14:28:45 INFO Script Enabled. Continuing...
+2021/05/15 14:28:45 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
+2021/05/15 14:28:45 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
+2021/05/15 14:28:45 INFO Fetched Mission: C:\\GitHub\\DCS-TTI-Master\\LATEST\\Empty_Mission_CCS.miz
+2021/05/15 14:28:45 INFO Unzipping miz...
+2021/05/15 14:28:45 FATAL Mission extraction failed!
+2021/05/15 14:28:45 INFO Making sense out the settings...
+2021/05/15 14:28:45 INFO Exporting options...
+2021/05/15 14:28:45 INFO Exporting Mission External Views: true
+2021/05/15 14:28:45 INFO Creating and Exporting Player External Views: true
+2021/05/15 14:28:45 ERROR Error exporting options data: Player External Views
+2021/05/15 14:28:45 INFO Creating and Exporting Spectator External Views: true-Export
+2021/05/15 14:28:45 ERROR Error exporting options data: Spectator External Views
+2021/05/15 14:28:45 INFO Creating and Exporting F5 View: true
+2021/05/15 14:28:45 ERROR Error exporting options data: F5 View
+2021/05/15 14:28:45 INFO Creating and Exporting F11 View: true
+2021/05/15 14:28:45 ERROR Error exporting options data: F11 View
+2021/05/15 14:28:45 INFO Creating and Exporting F10 View: true
+2021/05/15 14:28:45 ERROR Error exporting options data: F10 View
+2021/05/15 14:28:45 INFO Exporting Padlock: true
+2021/05/15 14:28:45 INFO Exporting Easy Flight Mode: true
+2021/05/15 14:28:45 INFO Exporting Easy Avionics Mode: true
+2021/05/15 14:28:45 INFO Exporting Immortality: true
+2021/05/15 14:28:45 INFO Exporting Unlimited Fuel: true
+2021/05/15 14:28:45 INFO Exporting Unlimited Weapons: true
+2021/05/15 14:28:45 INFO Exporting Easy Communication: true
+2021/05/15 14:28:45 INFO Exporting Radio Assists: true
+2021/05/15 14:28:45 INFO Exporting Unrestricted SATNAV: true
+2021/05/15 14:28:45 INFO Exporting Wake Turbulence: true
+2021/05/15 14:28:45 INFO Exporting Random System Failures: true
+2021/05/15 14:28:45 INFO Exporting Mini HUD: true
+2021/05/15 14:28:45 INFO Exporting Cockpit Visual Recon: true
+2021/05/15 14:28:45 INFO Exporting F10 User Marks: true
+2021/05/15 14:28:45 INFO Exporting Cockpit Status Bar: true
+2021/05/15 14:28:45 INFO Exporting Battle Damage Assessment: true
+2021/05/15 14:28:45 INFO Exporting Birds: 999
+2021/05/15 14:28:45 INFO Exporting F10 View Options: optview_myaircraft
+2021/05/15 14:28:45 INFO Exporting Labels: 2
+2021/05/15 14:28:45 INFO Exporting Civ Traffic: high
+2021/05/15 14:28:45 INFO Exporting G Effects: realistic
+2021/05/15 14:28:45 INFO Finished Export.
+2021/05/15 14:28:45 FATAL Zipping failed!
+2021/05/15 14:28:45 INFO Script complete. Exiting...
+2021/05/15 14:28:52 INFO ---------- Initializing Archer Option Injection v0.0.0 ----------
+2021/05/15 14:28:52 INFO Script Enabled. Continuing...
+2021/05/15 14:28:52 INFO Cleaning up temp miz...
+2021/05/15 14:28:58 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
+2021/05/15 14:28:58 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
+2021/05/15 14:28:58 INFO Fetched Mission: C:\\GitHub\\DCS-TTI-Master\\LATEST\\Empty_Mission_CCS.miz
+2021/05/15 14:28:58 INFO Unzipping miz...
+2021/05/15 14:28:58 INFO Making sense out the settings...
+2021/05/15 14:28:58 INFO Exporting options...
+2021/05/15 14:28:58 INFO Exporting Mission External Views: true
+2021/05/15 14:28:58 INFO Exporting Player External Views: true
+2021/05/15 14:28:58 INFO Exporting Spectator External Views: true-Export
+2021/05/15 14:28:58 INFO Exporting F5 View: true
+2021/05/15 14:28:58 INFO Exporting F11 View: true
+2021/05/15 14:28:58 INFO Exporting F10 View: true
+2021/05/15 14:28:58 INFO Exporting Padlock: true
+2021/05/15 14:28:58 INFO Exporting Easy Flight Mode: true
+2021/05/15 14:28:58 INFO Exporting Easy Avionics Mode: true
+2021/05/15 14:28:58 INFO Exporting Immortality: true
+2021/05/15 14:28:58 INFO Exporting Unlimited Fuel: true
+2021/05/15 14:28:58 INFO Exporting Unlimited Weapons: true
+2021/05/15 14:28:58 INFO Exporting Easy Communication: true
+2021/05/15 14:28:58 INFO Exporting Radio Assists: true
+2021/05/15 14:28:58 INFO Exporting Unrestricted SATNAV: true
+2021/05/15 14:28:58 INFO Exporting Wake Turbulence: true
+2021/05/15 14:28:58 INFO Exporting Random System Failures: true
+2021/05/15 14:28:58 INFO Exporting Mini HUD: true
+2021/05/15 14:28:58 INFO Exporting Cockpit Visual Recon: true
+2021/05/15 14:28:58 INFO Exporting F10 User Marks: true
+2021/05/15 14:28:58 INFO Exporting Cockpit Status Bar: true
+2021/05/15 14:28:58 INFO Exporting Battle Damage Assessment: true
+2021/05/15 14:28:58 INFO Exporting Birds: 999
+2021/05/15 14:28:58 INFO Exporting F10 View Options: optview_myaircraft
+2021/05/15 14:28:58 INFO Exporting Labels: 2
+2021/05/15 14:28:58 INFO Exporting Civ Traffic: high
+2021/05/15 14:28:58 INFO Exporting G Effects: realistic
+2021/05/15 14:28:58 INFO Finished Export.
+2021/05/15 14:28:58 INFO Script complete. Exiting...
+2021/05/15 14:32:35 INFO ---------- Initializing Archer Option Injection v0.0.0 ----------
+2021/05/15 14:32:35 INFO Script Enabled. Continuing...
+2021/05/15 14:32:35 INFO Found Saved Games Folder: C:\Users\Mr_Superjaffa\Saved Games\DCS
+2021/05/15 14:32:35 INFO Found Server Config: C:\Users\Mr_Superjaffa\Saved Games\DCS\Config\serverSettings.lua
+2021/05/15 14:32:35 INFO Fetched Mission: C:\\GitHub\\DCS-TTI-Master\\LATEST\\Empty_Mission_CCS.miz
+2021/05/15 14:32:35 INFO Unzipping miz...
+2021/05/15 14:32:36 INFO Making sense out the settings...
+2021/05/15 14:32:36 INFO Exporting options...
+2021/05/15 14:32:36 INFO Exporting Mission External Views: true
+2021/05/15 14:32:36 INFO Exporting Player External Views: true
+2021/05/15 14:32:36 INFO Exporting Spectator External Views: true-Export
+2021/05/15 14:32:36 INFO Exporting F5 View: true
+2021/05/15 14:32:36 INFO Exporting F11 View: true
+2021/05/15 14:32:36 INFO Exporting F10 View: true
+2021/05/15 14:32:36 INFO Exporting Padlock: true
+2021/05/15 14:32:36 INFO Exporting Easy Flight Mode: true
+2021/05/15 14:32:36 INFO Exporting Easy Avionics Mode: true
+2021/05/15 14:32:36 INFO Exporting Immortality: true
+2021/05/15 14:32:36 INFO Exporting Unlimited Fuel: true
+2021/05/15 14:32:36 INFO Exporting Unlimited Weapons: true
+2021/05/15 14:32:36 INFO Exporting Easy Communication: true
+2021/05/15 14:32:36 INFO Exporting Radio Assists: true
+2021/05/15 14:32:36 INFO Exporting Unrestricted SATNAV: true
+2021/05/15 14:32:36 INFO Exporting Wake Turbulence: true
+2021/05/15 14:32:36 INFO Exporting Random System Failures: true
+2021/05/15 14:32:36 INFO Exporting Mini HUD: true
+2021/05/15 14:32:36 INFO Exporting Cockpit Visual Recon: true
+2021/05/15 14:32:36 INFO Exporting F10 User Marks: true
+2021/05/15 14:32:36 INFO Exporting Cockpit Status Bar: true
+2021/05/15 14:32:36 INFO Exporting Battle Damage Assessment: true
+2021/05/15 14:32:36 INFO Exporting Birds: 999
+2021/05/15 14:32:36 INFO Exporting F10 View Options: optview_myaircraft
+2021/05/15 14:32:36 INFO Exporting Labels: 2
+2021/05/15 14:32:36 INFO Exporting Civ Traffic: high
+2021/05/15 14:32:36 INFO Exporting G Effects: realistic
+2021/05/15 14:32:36 INFO Finished Export.
+2021/05/15 14:32:36 INFO Script complete. Exiting...
