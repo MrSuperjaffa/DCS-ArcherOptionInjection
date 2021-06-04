@@ -1,8 +1,8 @@
 ﻿<#
     Author: Mr_Superjaffa#5430
     Description: Inject missions options for use on servers
-    Version: v1.0.0
-    Modified: May 15th/2021
+    Version: v1.0.1
+    Modified: June 3rd/2021
     Notes: N/A
 #>
 
@@ -87,10 +87,10 @@ $DEBUG = $Settings.General.DEBUG
 Try {
 If (!(Test-Path $Log) -and $Log){
     New-Item -Path $Log
-    Write-Log "WARN" "Log not found. Creating log at @Log" $Log
+    Write-Log "WARN" "Log not found. Creating log at $Log" $Log
 } Elseif (!(Test-Path $Log) -and !$Log) {
     New-Item -Path "./" -Name "OptionInjection.log"
-    Write-Log "WARN" "Log not found. Creating log at @Log" $Log
+    Write-Log "WARN" "Log not found. Creating log at $Log" $Log
 }
 } Catch {Write-Log "FATAL" "Log creation failed!" $Log}
 
@@ -98,7 +98,7 @@ Write-Log "INFO" "---------- Initializing Archer Option Injection $Version -----
 #Write-Log "INFO" $MissionFolder $Log
 
 # Exit if disabled. Nothing to do here.
-If ($InjectionSettings.Settings.Enabled -eq "False") {
+If ($Settings.Enabled -eq $false) {
     Write-Log "INFO" "Script Disabled. Exiting..." $Log
     Exit
 } Else {
