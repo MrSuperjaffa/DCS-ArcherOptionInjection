@@ -1,7 +1,7 @@
 
 # Archer Option Injection for Windows & DCS World
 
-v1.0.1 by Mr_Superjaffa#5430
+v1.0.2 by Mr_Superjaffa#5430
 
 Archer Option Injection allows for DCS mission settings to be configured from the outside, allowing for flexible mission configs using a single miz.
 

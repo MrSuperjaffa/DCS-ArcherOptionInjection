@@ -1,8 +1,8 @@
 ﻿<#
     Author: Mr_Superjaffa#5430
     Description: Inject missions options for use on servers
-    Version: v1.0.1
-    Modified: June 3rd/2021
+    Version: v1.0.2
+    Modified: June 18th/2021
     Notes: N/A
 #>
 
@@ -172,7 +172,7 @@ Switch ($Settings.Options.F10_View_Options) {
     default {$F10_View_Options = $null}
 }
 
-If ($Settings.Options.Labels -In 1..5) {
+If ($Settings.Options.Labels -In 0..4) {
     $Labels = $Settings.Options.Labels
 } Else {
     $Labels = $null

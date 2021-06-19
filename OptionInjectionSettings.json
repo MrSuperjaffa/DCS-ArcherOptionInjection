@@ -37,7 +37,7 @@
         "_COMMENT2_": "1 = Map Only, 2 = Own AC, 3 = Fog of War, 4 = Allies, 5 = All",
         "F10_View_Options": null,
 
-        "_COMMENT3_": "1 = Full, 2 = Abbreviated, 3 = Dot Only, 4 = Dot Neutral, 5 = None,",
+        "_COMMENT3_": "0 = None, 1 = Full, 2 = Abbreviated, 3 = Dot Only, 4 = Dot Neutral",
         "Labels": null,
 
         "_COMMENT4_": "1 = None, 2 = Low, 3 = Medium, 4 = High",
